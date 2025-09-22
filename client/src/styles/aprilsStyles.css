@@ -1,0 +1,67 @@
+.calendarBox {
+    border-left-width: 2px;
+    border-color: #777;
+    border-style: solid;
+}
+
+.timebox {
+
+
+}
+.redtimebox {
+    background-color: red;
+}
+.greentimebox{
+    background-color: #777;
+    border-style: solid;
+
+
+}
+
+.calendarDateLabelsContainer{
+    display: flex;
+    flex-direction: row;
+    border-bottom-width: 2px;
+    border-color: #777;
+    border-style: solid;   
+    width: 84%;
+
+}
+
+.calendarDateLabel {
+    text-justify: center;
+    justify-content: center;
+    width: 15%;
+}
+
+.calendarDateLabelText{
+    text-align: center;
+}
+
+.weekCalendarContainer {
+    width: 84%;
+}
+
+.calendarBox {
+    display: flex;
+    flex-direction: row;
+
+
+}
+
+.daybox {
+
+
+}
+.toalternatebooking {
+    height: 40px;
+    width: 40px;
+    background-color: blueviolet;
+}
+
+.buttoncolor {
+    background-color: #ff5c6b;
+}
+.buttoncolor:hover {
+    background-color: #ae1e2c;
+}
