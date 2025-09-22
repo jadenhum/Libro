@@ -1,8 +1,8 @@
-# Live Website URL
+# Libro
 
-https://libro.works
+Libro is a full-stack appointment booking application built with React and Node.js/Express for McGill professors and students. It enables users to create, manage, and delete one-time appointments, recurring meetings, and equipment reservations. Features include user authentication, a management dashboard, polling for scheduling decisions, and public booking via URL. The app uses MongoDB for data storage.
 
-# Instructions
+## Instructions
 
 Here are the instructions for running the application locally. Before running it, you should clone this repository, and ensure you have Node.js installed:
 
